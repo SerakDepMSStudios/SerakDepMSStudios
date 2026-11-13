@@ -25,7 +25,7 @@ En **SerakDepMS Studios** no solo escribimos código; construimos ecosistemas di
 *   **Comunidad Devs:** 8 divisiones técnicas enfocadas en programación, ciberseguridad, IA y desarrollo colaborativo.
 *   **Comunidad Roblox:** Desarrollo de videojuegos inmersivos y creación de assets para la plataforma.
 
-🔗 **Visita nuestra web oficial:** [serakdepmsstudios.com](https://serakdepmsstudios.com)
+**Visita nuestra web oficial:** [serakdepmsstudios.com](https://serakdepmsstudios.com)
 
 ---
 
@@ -84,7 +84,7 @@ Nuestro ecosistema vive en Discord. Conéctate con otros jugadores, programadore
 
 ---
 
-## 🔗 Enlaces Oficiales
+## Enlaces Oficiales
 
 *   **Web:** [serakdepmsstudios.com](https://serakdepmsstudios.com)
 *   **X / Twitter:** [@serakdepms](https://x.com/serakdepms)
