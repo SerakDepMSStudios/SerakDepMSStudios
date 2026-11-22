@@ -89,7 +89,7 @@ Nuestro ecosistema vive en Discord. Conéctate con otros jugadores, programadore
 *   **Web:** [serakdepmsstudios.com](https://serakdepmsstudios.com)
 *   **X / Twitter:** [@serakdepms](https://x.com/serakdepms)
 *   **Instagram:** [@serakdepmsstudios](https://www.instagram.com/serakdepmsstudios)
-*   **Facebook:** [SerakDepMSStudios](https://www.facebook.com/SerakDepMSStudios)
+*   **Facebook:** [serakdepmsstudios.oficial](https://www.facebook.com/serakdepmsstudios.oficial)
 *   **LinkedIn:** [SerakDepMS](https://www.linkedin.com/in/SerakDepMS)
 *   **TikTok:** [@serakdepmsstudios](https://www.tiktok.com/@serakdepmsstudios)
 
