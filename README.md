@@ -18,24 +18,24 @@
 
 ## Nuestro Ecosistema
 
-En **SerakDepMS Studios** no solo escribimos código; construimos ecosistemas digitales completos. Nuestra operación integra desarrollo, educación abierta y comunidad:
+En **SerakDepMS Studios** no solo escribimos código; construimos ecosistemas digitales completos. Nuestra operación integra soluciones tecnológicas, educación abierta y comunidad:
 
-- **Hub Central (`.com`):** El portafolio principal donde presentamos nuestras soluciones web, herramientas interactivas (Sandbox Web HTML/CSS/JS) y proyectos.
-- **Portal Documental y Educativo (`.org`):** Centro de conocimiento abierto con cursos gratuitos en PDF, bitácoras de ingeniería y especificaciones técnicas.
+- **Hub Central ([serakdepmsstudios.com](https://serakdepmsstudios.com)):** El portafolio principal de la empresa donde presentamos nuestros servicios tecnológicos, casos de éxito para clientes, proyectos de videojuegos y el Sandbox Web (HTML/CSS/JS).
+- **Portal Documental y Educativo ([serakdepmsstudios.org](https://serakdepmsstudios.org)):** Centro de conocimiento abierto con cursos gratuitos en PDF, bitácoras de ingeniería, especificaciones técnicas y guías para desarrolladores.
 - **Comunidad Gamer & eSports:** 12 divisiones competitivas dedicadas a torneos, eventos y gestión de comunidades de juegos.
 - **Comunidad Devs:** 8 divisiones técnicas enfocadas en programación, ciberseguridad, IA y desarrollo colaborativo.
 - **Comunidad Roblox:** Desarrollo de videojuegos inmersivos y creación de assets para la plataforma.
 
-**Web oficial:** [serakdepmsstudios.com](https://serakdepmsstudios.com) · **Portal educativo y PDFs:** [serakdepmsstudios.org](https://serakdepmsstudios.org)
+**Ecosistema Principal:** [serakdepmsstudios.com](https://serakdepmsstudios.com) · **Portal Educativo y PDFs:** [serakdepmsstudios.org](https://serakdepmsstudios.org)
 
 ---
 
-## Proyectos y Recursos Destacados
+## Proyectos y Casos de Éxito
 
-- **Portal de Documentación y Cursos:** [Repositorio abierto](https://serakdepmsstudios.org) de guías técnicas, bitácoras de desarrollo y material formativo descargable.
-- **Sandbox Web HTML/CSS/JS:** [Entorno interactivo en vivo](https://serakdepmsstudios.com/gamer/pages/laboratorio.html) para prototipado y práctica frontend directo en el navegador.
-- **Open Source DevKit:** [Repositorio colaborativo](https://github.com/SerakDepMSStudios) con herramientas, arquitectura y recursos para desarrolladores.
-- **Arena Tours Cartagena:** [Sitio web corporativo y de reservas](https://arenatourscartagena.com/) para agencia turística.
+- **Arena Tours Cartagena (Desarrollo Web a Medida):** [Plataforma web corporativa y sistema de reservas](https://arenatourscartagena.com/) desarrollado por SerakDepMS Studios como solución digital integral para una empresa del sector turístico, exhibido en nuestro portafolio principal ([serakdepmsstudios.com](https://serakdepmsstudios.com)).
+- **Portal de Documentación y Cursos (`.org`):** [Repositorio abierto](https://serakdepmsstudios.org) de guías técnicas, bitácoras de desarrollo y material formativo descargable en PDF.
+- **Sandbox Web HTML/CSS/JS (`.com`):** [Entorno interactivo en vivo](https://serakdepmsstudios.com/gamer/pages/laboratorio.html) para prototipado y práctica frontend directo en el navegador.
+- **Open Source DevKit:** [Repositorio colaborativo](https://github.com/SerakDepMSStudios) con herramientas, arquitectura y recursos abiertos para desarrolladores.
 
 ---
 
