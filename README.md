@@ -6,33 +6,36 @@
 <h3 align="center">Serak Digital Mastery Studios Solutions</h3>
 
 <p align="center">
-  <strong>Empresa tecnológica y ecosistema digital. Construimos producto digital y las comunidades que lo usan.<br>
-  Web, Videojuegos, Ciberseguridad y Comunidades Tech.</strong>
+  <strong>Empresa tecnológica y ecosistema digital. Construimos producto digital, conocimiento abierto y las comunidades que lo usan.<br>
+  Web, Videojuegos, Ciberseguridad, Educación Abierta y Comunidades Tech.</strong>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300FF66&center=true&vCenter=true&width=750&height=100&lines=Construimos+Ecosistemas+Digitales;Desarrollo+Web+Full+Stack;Videojuegos+%26+eSports;Comunidades+Tech+(Gamer+%2B+Devs)" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300FF66¢er=true&vCenter=true&width=750&height=100&lines=Construimos+Ecosistemas+Digitales;Desarrollo+Web+Full+Stack;Videojuegos+%26+eSports;Educaci%C3%B3n+Abierta+%26+Documentaci%C3%B3n;Comunidades+Tech+(Gamer+%2B+Devs)" alt="Typing SVG" /></a>
 </p>
 
 ---
 
 ## Nuestro Ecosistema
 
-En **SerakDepMS Studios** no solo escribimos código; construimos ecosistemas digitales completos. Nuestra operación se divide en tres pilares fundamentales:
+En **SerakDepMS Studios** no solo escribimos código; construimos ecosistemas digitales completos. Nuestra operación integra desarrollo, educación abierta y comunidad:
 
-*   **Hub Central:** El portafolio principal donde presentamos nuestras soluciones web, herramientas y clientes.
-*   **Comunidad Gamer & eSports:** 12 divisiones competitivas dedicadas a torneos, eventos y gestión de comunidades de juegos.
-*   **Comunidad Devs:** 8 divisiones técnicas enfocadas en programación, ciberseguridad, IA y desarrollo colaborativo.
-*   **Comunidad Roblox:** Desarrollo de videojuegos inmersivos y creación de assets para la plataforma.
+- **Hub Central (`.com`):** El portafolio principal donde presentamos nuestras soluciones web, herramientas interactivas (Sandbox Web HTML/CSS/JS) y proyectos.
+- **Portal Documental y Educativo (`.org`):** Centro de conocimiento abierto con cursos gratuitos en PDF, bitácoras de ingeniería y especificaciones técnicas.
+- **Comunidad Gamer & eSports:** 12 divisiones competitivas dedicadas a torneos, eventos y gestión de comunidades de juegos.
+- **Comunidad Devs:** 8 divisiones técnicas enfocadas en programación, ciberseguridad, IA y desarrollo colaborativo.
+- **Comunidad Roblox:** Desarrollo de videojuegos inmersivos y creación de assets para la plataforma.
 
-**Visita nuestra web oficial:** [serakdepmsstudios.com](https://serakdepmsstudios.com)
+**Web oficial:** [serakdepmsstudios.com](https://serakdepmsstudios.com) · **Portal educativo y PDFs:** [serakdepmsstudios.org](https://serakdepmsstudios.org)
 
 ---
 
-## Proyectos Destacados
+## Proyectos y Recursos Destacados
 
-*   **Arena Tours Cartagena:** [Sitio web corporativo y de reservas](https://arenatourscartagena.com/) para agencia turística.
-*   **Open Source DevKit:** [Repositorio colaborativo](https://github.com/SerakDepMS/serakdepms-devkit) con herramientas y snippets para desarrolladores.
+- **Portal de Documentación y Cursos:** [Repositorio abierto](https://serakdepmsstudios.org) de guías técnicas, bitácoras de desarrollo y material formativo descargable.
+- **Sandbox Web HTML/CSS/JS:** [Entorno interactivo en vivo](https://serakdepmsstudios.com/gamer/pages/laboratorio.html) para prototipado y práctica frontend directo en el navegador.
+- **Open Source DevKit:** [Repositorio colaborativo](https://github.com/SerakDepMSStudios) con herramientas, arquitectura y recursos para desarrolladores.
+- **Arena Tours Cartagena:** [Sitio web corporativo y de reservas](https://arenatourscartagena.com/) para agencia turística.
 
 ---
 
@@ -71,11 +74,14 @@ Nuestro enfoque técnico se centra en el desarrollo web moderno, la creación de
 
 ## Únete a nuestras Comunidades
 
-Nuestro ecosistema vive en Discord. Conéctate con otros jugadores, programadores y conoce al equipo de desarrollo.
+Conéctate a través de nuestros canales oficiales para recibir actualizaciones, compartir proyectos y participar en eventos.
 
 <p align="center">
-  <a href="https://discord.gg/nphuM8K9aD">
-    <img src="https://img.shields.io/badge/Discord-Servidor_Oficial-%23000000.svg?style=for-the-badge&logo=discord&logoColor=00FF66" alt="Discord">
+  <a href="https://www.whatsapp.com/channel/0029Vb8eLdmKAwEimFehzt3j">
+    <img src="https://img.shields.io/badge/WhatsApp-Canal_Oficial-%23000000.svg?style=for-the-badge&logo=whatsapp&logoColor=00FF66" alt="Canal WhatsApp">
+  </a>
+  <a href="https://chat.whatsapp.com/GGkcLzydBXZ0IjMI6f731G">
+    <img src="https://img.shields.io/badge/WhatsApp-Comunidad_Oficial-%23000000.svg?style=for-the-badge&logo=whatsapp&logoColor=00FF66" alt="Comunidad WhatsApp">
   </a>
   <a href="https://www.roblox.com/share/g/548113317">
     <img src="https://img.shields.io/badge/Roblox-Comunidad_Oficial-%23000000.svg?style=for-the-badge&logo=roblox&logoColor=00FF66" alt="Roblox">
@@ -86,12 +92,13 @@ Nuestro ecosistema vive en Discord. Conéctate con otros jugadores, programadore
 
 ## Enlaces Oficiales
 
-*   **Web:** [serakdepmsstudios.com](https://serakdepmsstudios.com)
-*   **X / Twitter:** [@serakdepms](https://x.com/serakdepms)
-*   **Instagram:** [@serakdepmsstudios](https://www.instagram.com/serakdepmsstudios)
-*   **Facebook:** [serakdepmsstudios.oficial](https://www.facebook.com/serakdepmsstudios.oficial)
-*   **LinkedIn:** [SerakDepMS](https://www.linkedin.com/in/SerakDepMS)
-*   **TikTok:** [@serakdepmsstudios](https://www.tiktok.com/@serakdepmsstudios)
+- **Sitio Web Principal:** [serakdepmsstudios.com](https://serakdepmsstudios.com)
+- **Portal Educativo y Documentación:** [serakdepmsstudios.org](https://serakdepmsstudios.org)
+- **X / Twitter:** [@serakdepms](https://x.com/serakdepms)
+- **Instagram:** [@serakdepmsstudios](https://www.instagram.com/serakdepmsstudios)
+- **Facebook:** [serakdepmsstudios.oficial](https://www.facebook.com/serakdepmsstudios.oficial)
+- **LinkedIn:** [SerakDepMS](https://www.linkedin.com/in/SerakDepMS)
+- **TikTok:** [@serakdepmsstudios](https://www.tiktok.com/@serakdepmsstudios)
 
 <br>
 
